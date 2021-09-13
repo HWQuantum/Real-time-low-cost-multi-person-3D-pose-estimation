@@ -15,3 +15,6 @@ We provide one example for each scenario containing one, two or three people in 
 
 ### 2 people scenario
 ![](figure_2people.png)
+
+### 3 people scenario
+![](figure_3people.png)
