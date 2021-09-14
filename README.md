@@ -5,6 +5,11 @@ Contact : Alice Ruget ar432@hw.ac.uk
 This folder contains the code and models of the project. 
 We provide one example for each scenario containing one, two or three people in the scene. 
 
+## Dependencies 
+Python 3.8.11
+Tensorflow 2.4.1
+Keras 2.4.0
+
 ## Run the tests
 1. Download the models at the DOI : 10.17861/e85a6eae-13f9-4bcd-9dff-73f8107c09a2
 2. Run Pixels2Pose.py --scenario=*number_people* with *number_people* = 1,2,3 
