@@ -2,7 +2,7 @@
 Contact : Alice Ruget ar432@hw.ac.uk
 
 
-This folder contains the code and models of the project. 
+This folder contains the code and models of the project. You can find the models and the data at DOI : 10.17861/e85a6eae-13f9-4bcd-9dff-73f8107c09a2 
 We provide one example for each scenario containing one, two or three people in the scene. 
 
 ## Dependencies 
