@@ -5,7 +5,7 @@ Contact : Alice Ruget ar432@hw.ac.uk
 This folder contains the code and models of the project.  
 
 
-You can find the models and the data [here] (https://researchportal.hw.ac.uk/en/datasets/real-time-low-cost-multi-person-3d-pose-estimation) 
+You can find the models and the data  at https://researchportal.hw.ac.uk/en/datasets/real-time-low-cost-multi-person-3d-pose-estimation. 
 
 We provide one example for each scenario containing one, two or three people in the scene. 
 
